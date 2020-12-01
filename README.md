@@ -1,16 +1,62 @@
-### Hi there 👋
+## **Junior Web Developer 🐘**  
+  
+  
+### _Resume_ 🎬
+  
+> After many years spent in the trade and transport industry, I decided to breathe new life into my career.    
+> Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
+> I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer.
 
-<!--
-**Erwan-Cloitre/Erwan-Cloitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _Experiences_ 💥 
 
-Here are some ideas to get you started:
+_to come up..._
+  
+### _Formation_ 🍄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 2020 :  Student Web Developer at Wild Code School in Strasbourg
+
+Production of 2 client projects: :
+
+#### Project 1
+-------
+* Production of a CV of a fictional character adapted to the responsive and functional format.
+  * Discovery of the agile method, Git and PDO.
+  * Time limit: 2 weeks.
+  * Teamwork composed of 5 wilders.
+
+#### Project 2
+-------
+* Creation of a site for a home chef (Stras'Cook) who specializes in trendy menus and wants to increase his reputation in Strasbourg.
+  * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
+  * Languages : PHP, HTML, CSS and Bootstrap.
+  * Time limit : 5 semaines.
+  * Teamwork composed of 3 wilders.
+  * Lead Dev of the project.
+
+### _Diplômes_ 🎓
+
+* 2020 : I am preparing for the professional title of web and mobile web developer
+
+* 2004 : BAC STT Commercial action in René Cassin High School
+
+### _Professionnal skills_ 🛠 
+  
+|Frontend     |Backend  |Project management   |Language                 |  
+|--           |--       |--                   |--                       |  
+|HTML         |PHP      |agile method         |🇫🇷 French - mother tongue|  
+|CSS          |MySQL    |SCRUM                |🇬🇧 English - professional|
+|Bootstrap    |Composer |Github/Git           |                         |  
+|Twig         |Symfony  |Wireframe            |                         |  
+  
+
+### _Contacts_ 📬 
+
+ 📧 E-mail : mathieubecker86@gmail.com
+ 
+ 📱 06.31.32.46.35
+ 
+ 👉🏼 Welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
+ 
+ 
+
+
