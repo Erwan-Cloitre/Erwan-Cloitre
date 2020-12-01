@@ -4,7 +4,7 @@
 ### _Resume_ 
     
 > Passionate about the web environment, I trained as an autodidact after my Baccalauréat.
->I did the "Piscine" of School 42 in Paris(5 weeks, students would spend 50-80h/week working in the building.).
+> I did the "Piscine" of School 42 in Paris(5 weeks, students would spend 50-80h/week working in the building.).
 > I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer.
   
 ### _Formation_ 
