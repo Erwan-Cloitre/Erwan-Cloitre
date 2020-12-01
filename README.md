@@ -1,17 +1,13 @@
 ## **Junior Web Developer 🐘**  
   
   
-### _Resume_ 🎬
-  
-> After many years spent in the trade and transport industry, I decided to breathe new life into my career.    
-> Passionate about the web environment, I trained as an autodidact for 2 years before joining the Wild Code School in Strasbourg in September 2020.  
+### _Resume_ 
+    
+> Passionate about the web environment, I trained as an autodidact after my Baccalauréat.
+>I did the "Piscine" of School 42 in Paris(5 weeks, students would spend 50-80h/week working in the building.).
 > I am looking for new opportunities as a PHP / Symfony oriented Junior Web Developer.
-
-### _Experiences_ 💥 
-
-_to come up..._
   
-### _Formation_ 🍄
+### _Formation_ 
 
 * 2020 :  Student Web Developer at Wild Code School in Strasbourg
 
@@ -22,22 +18,22 @@ Production of 2 client projects: :
 * Production of a CV of a fictional character adapted to the responsive and functional format.
   * Discovery of the agile method, Git and PDO.
   * Time limit: 2 weeks.
-  * Teamwork composed of 5 wilders.
+  * Teamwork composed of 5 peoples.
 
 #### Project 2
 -------
-* Creation of a site for a home chef (Stras'Cook) who specializes in trendy menus and wants to increase his reputation in Strasbourg.
+* Creation of a site for a music band (Stras'Zik).
   * Deepening of the agile method, use of Github and MVC architecture with composer and twig.
   * Languages : PHP, HTML, CSS and Bootstrap.
   * Time limit : 5 semaines.
-  * Teamwork composed of 3 wilders.
+  * Teamwork composed of 3 peoples.
   * Lead Dev of the project.
 
 ### _Diplômes_ 🎓
 
-* 2020 : I am preparing for the professional title of web and mobile web developer
+* 2020 : I am preparing for the professional title of "web and mobile web developer"
 
-* 2004 : BAC STT Commercial action in René Cassin High School
+* 2017 : BAC S (Scientifique) - Lycée Hélène Boucher
 
 ### _Professionnal skills_ 🛠 
   
@@ -51,11 +47,11 @@ Production of 2 client projects: :
 
 ### _Contacts_ 📬 
 
- 📧 E-mail : mathieubecker86@gmail.com
+ 📧 E-mail : erwan.cloitre@gmail.com
  
- 📱 06.31.32.46.35
+ 📱 06.12.28.42.11
  
- 👉🏼 Welcome on my [Linkedin](https://www.linkedin.com/in/mathieu-becker86/)
+ 👉🏼 Welcome on my [Linkedin](https://www.linkedin.com/in/Erwan-Cloitre/)
  
  
 
